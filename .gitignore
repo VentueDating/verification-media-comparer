@@ -161,3 +161,6 @@ cython_debug/
 detected_faces/
 selfie/
 pics/
+face_liveness_detection-Anti-spoofing-master/
+liveness_pics/
+.DS_Store
